@@ -21,7 +21,7 @@ sleep 1
 echo "3)  1 card must support monitor mode"
 
 
-echo "do you want to change your wireless card to monitor mode"
+echo "do you want to change your wireless card to monitor mode[1 or2]"
 read choice
 if [ $choice -eq '1' ];
 then
