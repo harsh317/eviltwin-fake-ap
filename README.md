@@ -2,7 +2,7 @@
 Create a Fake ap with any name using hostapd dnsmasq mysql . Capture credentions easily 
 For using the code do;
 
-1)  chmod +x mainhack.sh
+1)  chmod +x fakeap.sh install_tools.sh
 2)./mainhack.sh
 3)The script if necessary tools are installed or not 
 
